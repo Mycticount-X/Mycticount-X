@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning: **Mobile Apps** and **Web Deployment**
 - 👯 I'm looking to collaborate on: **Mobile Apps** or **Web Project**
 - 💬 Ask me about: *Python Django*, *Data Structure*, or *React Native*
-- ⚡ Fun fact: None
+- ⚡ Fun fact: I play HSR
 
 ## Technical Skills 💻
 
