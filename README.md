@@ -52,9 +52,10 @@
 
 ## Recent Projects 🏆
 
-- [Data Structure with MC-S25](link) - All Collection of Data Structure Project and Sample
-- [Encoding and Decoding Apps](link) - Python GUI Apps for Encode and Decode Text
-- [Python Hangman](link) - Python CLI Hangman Game for fun 
+- [Data Structure with MC-S25](https://github.com/Mycticount-X/Data-Structure-and-Algorithm-MC-S25) - All Collection of Data Structure Project and Sample
+- [The Cnake](https://github.com/Mycticount-X/The-Cnake) - C CLI Classic Snake Game
+- [Encoding and Decoding Apps](https://github.com/Mycticount-X/Encryption-and-Decryption-Program) - Python GUI Apps for Encode and Decode Text
+- [Python Hangman](https://github.com/Mycticount-X/Hangman-Game) - Python CLI Hangman Game for fun 
 
 ## How to Reach Me 📫
 
