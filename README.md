@@ -4,7 +4,7 @@
 
 # Hello, I'm Mycticount Xeta Ahlovely 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ahlovely-stevenson-7b1b62325/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-url)
 
@@ -60,7 +60,7 @@
 ## How to Reach Me 📫
 
 📧 HSR UID: 825019617  
-💼 LinkedIn: [Mycticount X](your-linkedin-url)
+💼 LinkedIn: [Mycticount X](https://www.linkedin.com/in/michael-ahlovely-stevenson-7b1b62325/)
 
 <div align="center">
     <img src="./assets/waves-bottom.gif" alt="Wave"/>
