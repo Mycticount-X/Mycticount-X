@@ -4,7 +4,7 @@
 
 # Hello, I'm Mycticount Xeta Ahlovely 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ahlovely-stevenson-7b1b62325/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-url)
 
@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning: **Mobile Apps** and **Web Deployment**
 - 👯 I'm looking to collaborate on: **Mobile Apps** or **Web Project**
 - 💬 Ask me about: *Python Django*, *Data Structure*, or *React Native*
-- ⚡ Fun fact: None
+- ⚡ Fun fact: I play HSR
 
 ## Technical Skills 💻
 
@@ -54,14 +54,15 @@
 
 ## Recent Projects 🏆
 
-- [Data Structure with MC-S25](link) - All Collection of Data Structure Project and Sample
-- [Encoding and Decoding Apps](link) - Python GUI Apps for Encode and Decode Text
-- [Python Hangman](link) - Python CLI Hangman Game for fun 
+- [Data Structure with MC-S25](https://github.com/Mycticount-X/Data-Structure-and-Algorithm-MC-S25) - All Collection of Data Structure Project and Sample
+- [The Cnake](https://github.com/Mycticount-X/The-Cnake) - C CLI Classic Snake Game
+- [Encoding and Decoding Apps](https://github.com/Mycticount-X/Encryption-and-Decryption-Program) - Python GUI Apps for Encode and Decode Text
+- [Python Hangman](https://github.com/Mycticount-X/Hangman-Game) - Python CLI Hangman Game for fun 
 
 ## How to Reach Me 📫
 
 📧 HSR UID: 825019617  
-💼 LinkedIn: [Mycticount X](your-linkedin-url)
+💼 LinkedIn: [Mycticount X](https://www.linkedin.com/in/michael-ahlovely-stevenson-7b1b62325/)
 
 <div align="center">
     <img src="./assets/waves-bottom.gif" alt="Wave"/>
