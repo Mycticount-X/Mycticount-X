@@ -44,7 +44,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mycticount-X&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mycticount-X)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mycticount-X)](https://git.io/streak-stats)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=Mycticount-X) -->
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Mycticount-X)
 
