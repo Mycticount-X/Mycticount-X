@@ -44,11 +44,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mycticount-X&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mycticount-X)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mycticount-X&theme=radical)](https://git.io/streak-stats)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=Mycticount-X) -->
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mycticount-X)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mycticount-X&theme=radical)
 
 ![Visitor Count](https://profile-counter.glitch.me/Mycticount-X/count.svg)
 
