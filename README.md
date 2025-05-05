@@ -40,7 +40,7 @@
 
 ## GitHub Stats 📊
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mycticount-X&show_icons=true&theme=gruvbox)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mycticount-X&show_icons=true&theme=gruvbox)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mycticount-X&theme=gruvbox)](https://git.io/streak-stats)
 
