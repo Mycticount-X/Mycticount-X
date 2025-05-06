@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-url)
 
 ## About Me 🚀
-- 🔭 I'm currently working on: **Hackatlon Project**
+- 🔭 I'm currently working on: **Hackathon Project**
 - 🌱 I'm currently learning: **Mobile Apps** and **Web Deployment**
 - 👯 I'm looking to collaborate on: **Mobile Apps** or **Web Project**
 - 💬 Ask me about: *Python Django*, *Data Structure*, or *React Native*
