@@ -11,7 +11,7 @@
 
 
 ## About Me 🚀
-- 🔭 I'm currently working on: **Hackatlon Project**
+- 🔭 I'm currently working on: **Hackathon Project**
 - 🌱 I'm currently learning: **Mobile Apps** and **Web Deployment**
 - 👯 I'm looking to collaborate on: **Mobile Apps** or **Web Project**
 - 💬 Ask me about: *Python Django*, *Data Structure*, or *React Native*
@@ -79,7 +79,7 @@
 
 ## GitHub Stats 📊
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mycticount-X&show_icons=true&theme=gruvbox)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mycticount-X&show_icons=true&theme=gruvbox)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mycticount-X&theme=gruvbox)](https://git.io/streak-stats)
 
