@@ -2,11 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Welcome%20to%20Myctix%20Universe&textBg=false&descAlign=35&fontColor=d4af37&fontSize=50" alt="Wave"/>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ahlovely-stevenson-7b1b62325/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/michael23master) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Mycticount_23X) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mxlovers77@gmail.com) 
-
+[![Portofolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mxa-portofolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=firefox&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ahlovely-stevenson-7b1b62325/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=firefoxlogo=Instagram&logoColor=white)](https://instagram.com/michael23master) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=firefox&logo=YouTube&logoColor=white)](https://www.youtube.com/@Mycticount_23X) 
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=firefox&logo=gmail&logoColor=white)](mailto:mxlovers77@gmail.com) 
 
 ## About Me 🚀
 - 🔭 I'm currently working on: **Hackathon Project**
@@ -87,8 +87,6 @@
 
 </div>
 
----
-
 ## 🔥 Featured Projects
 
 ### 📌 [Cychael of Energy](https://github.com/yourusername/project3)
@@ -147,5 +145,5 @@
 
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=The%20End...%20or%20Beginning&section=footer&fontColor=d4af37&fontSize=50" alt="Wave"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=The%20End...%20or%20perhaps%20it's%20just%20the%20Beginning&section=footer&fontColor=d4af37&fontSize=30" alt="Wave"/>
 </div>
