@@ -2,11 +2,16 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Welcome%20to%20Myctix%20Universe&textBg=false&descAlign=35&fontColor=d4af37&fontSize=50" alt="Wave"/>
 </div>
 
+<div align="center">
+
 [![Portofolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mxa-portofolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=firefox&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ahlovely-stevenson-7b1b62325/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=firefoxlogo=Instagram&logoColor=white)](https://instagram.com/michael23master) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=firefox&logo=YouTube&logoColor=white)](https://www.youtube.com/@Mycticount_23X) 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=firefox&logo=gmail&logoColor=white)](mailto:mxlovers77@gmail.com) 
+<!-- ![](https://komarev.com/ghpvc/?username=Mycticount-X&color=blueviolet&style=for-the-badge) -->
+
+</div>
 
 ## About Me 🚀
 - 🔭 I'm currently working on: **Hackathon Project**
@@ -85,6 +90,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mycticount-X&layout=compact&theme=gruvbox)
 
+
 </div>
 
 ## 🔥 Featured Projects
@@ -118,15 +124,6 @@
 
 **Tech Stack:** MediaPipe, TKinter, PIL  
 🔗 No Live Demo | ⭐ Computer Vision Project
-
----
-
-<div align="center">
-
-### 📊 Profile Views
-![](https://komarev.com/ghpvc/?username=Mycticount-X&color=blueviolet&style=for-the-badge)
-
-</div>
 
 ---
 
