@@ -1,8 +1,6 @@
 <div align="center">
-    <img src="./assets/waves-upper.gif" alt="Wave"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Welcome%20to%20Myctix%20Universe&textBg=false&descAlign=35&fontColor=d4af37&fontSize=50" alt="Wave"/>
 </div>
-
-# Hello, I'm Mycticount Xeta Ahlovely 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ahlovely-stevenson-7b1b62325/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/michael23master) 
@@ -31,7 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+
 
 ### ⚛ Data Science 
 
@@ -76,8 +74,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-
+---
 ## GitHub Stats 📊
+
+<div align="center">
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mycticount-X&show_icons=true&theme=gruvbox)
 
@@ -85,30 +85,67 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mycticount-X&layout=compact&theme=gruvbox)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mycticount-X&theme=gruvbox)
-
-![Visitor Count](https://profile-counter.glitch.me/Mycticount-X/count.svg)
-
-## Recent Projects 🏆
-
-- [Data Structure with MC-S25](https://github.com/Mycticount-X/Data-Structure-and-Algorithm-MC-S25) - All Collection of Data Structure Project and Sample
-- [The Cnake](https://github.com/Mycticount-X/The-Cnake) - C CLI Classic Snake Game
-- [Encoding and Decoding Apps](https://github.com/Mycticount-X/Encryption-and-Decryption-Program) - Python GUI Apps for Encode and Decode Text
-- [Python Hangman](https://github.com/Mycticount-X/Hangman-Game) - Python CLI Hangman Game for fun 
-
-## How to Reach Me 📫
-
-📧 HSR UID: 825019617  
-💼 LinkedIn: [Mycticount X](https://www.linkedin.com/in/michael-ahlovely-stevenson-7b1b62325/)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
+
+## 🔥 Featured Projects
+
+### 📌 [Cychael of Energy](https://github.com/yourusername/project3)
+> Smart mobile application for auditing and analyzing household energy consumption efficiency.
+
+**Tech Stack:** React Native, Firebase, Express, EAS  
+🔗 No Live Demo | ⭐ Mobile App Project
+
+---
+
+### 📌 [Myctix Archive](https://github.com/Mycticount-X/Myctix-Archive)
+> An organized learning platform providing curated materials, practice problems, and explanations for foundational computer science courses.
+
+**Tech Stack:** Vercel  
+🔗 [Live Demo](https://myctix-archive.vercel.app) | ⭐ Web Project
+
+---
+
+### 📌 [Ocean Trade](https://github.com/Mycticount-X/OceanTrade)
+> A specialized e-commerce platform designed to facilitate maritime asset trading and ship sales.
+
+**Tech Stack:** HTML, CSS, JavaScript, Vercel  
+🔗 [Live Demo](https://ocean-trade.vercel.app/) | ⭐ Web Project
+
+---
+
+### 📌 [Gesture Deck: Reign of Gesture](https://github.com/Mycticount-X/GestureDeck)
+> A simple interactive rock paper scissors game controlled entirely by hand gestures using Computer Vision.
+
+**Tech Stack:** MediaPipe, TKinter, PIL  
+🔗 No Live Demo | ⭐ Computer Vision Project
+
+---
+
+<div align="center">
+
+### 📊 Profile Views
+![](https://komarev.com/ghpvc/?username=Mycticount-X&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mycticount-X&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
 [![](https://visitcount.itsvg.in/api?id=Mycticount-X&icon=0&color=8)](https://visitcount.itsvg.in)
 
 
 <div align="center">
-    <img src="./assets/waves-bottom.gif" alt="Wave"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=The%20End...%20or%20Beginning&section=footer&fontColor=d4af37&fontSize=50" alt="Wave"/>
 </div>
