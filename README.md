@@ -93,7 +93,7 @@
 
 </div>
 
-## 🔥 Featured Projects
+<!-- ## 🔥 Featured Projects
 
 ### 📌 [Cychael of Energy](https://github.com/yourusername/project3)
 > Smart mobile application for auditing and analyzing household energy consumption efficiency.
@@ -125,7 +125,7 @@
 **Tech Stack:** MediaPipe, TKinter, PIL  
 🔗 No Live Demo | ⭐ Computer Vision Project
 
----
+--- -->
 
 ## 📈 Activity Graph
 
